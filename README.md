@@ -6,7 +6,6 @@
 
 [![Language](https://img.shields.io/badge/language-C-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Norminette](https://img.shields.io/badge/42-Norminette-00babc.svg)](https://github.com/42School/norminette)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](#license)
 
 **[English](#english) · [Español](#español)**
 
@@ -114,7 +113,7 @@ cc -Wall -Wextra -Werror main.c -I. -L. -lft -o demo
 
 ## License
 
-This project is distributed under the MIT License. See the repository for the complete license terms.
+No license file is currently included in this repository. Add an explicit license before distributing the code outside the intended academic context.
 
 ---
 
@@ -204,4 +203,4 @@ cc -Wall -Wextra -Werror main.c -I. -L. -lft -o demo
 
 ## Licencia
 
-Este proyecto se distribuye bajo la licencia MIT. Consulta el repositorio para ver sus términos completos.
+Actualmente el repositorio no incluye un archivo de licencia. Añade una licencia explícita antes de distribuir el código fuera del contexto académico previsto.
