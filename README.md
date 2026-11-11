@@ -111,9 +111,8 @@ cc -Wall -Wextra -Werror main.c -I. -L. -lft -o demo
 - Functions return `NULL` when allocation fails where applicable; callers remain responsible for releasing allocated memory.
 - The project intentionally keeps dependencies limited to standard headers such as `<stdlib.h>`, `<unistd.h>`, and `<limits.h>`.
 
-## License
-
-No license file is currently included in this repository. Add an explicit license before distributing the code outside the intended academic context.
+## Details
+This project was completed on October 2025, it might change, with nowadays libft project, but its almost the same
 
 ---
 
@@ -201,6 +200,5 @@ cc -Wall -Wextra -Werror main.c -I. -L. -lft -o demo
 - Las funciones devuelven `NULL` cuando falla una reserva de memoria, cuando corresponde; quien use la biblioteca debe liberar la memoria reservada.
 - El proyecto limita sus dependencias a cabeceras estándar como `<stdlib.h>`, `<unistd.h>` y `<limits.h>`.
 
-## Licencia
-
-Actualmente el repositorio no incluye un archivo de licencia. Añade una licencia explícita antes de distribuir el código fuera del contexto académico previsto.
+## Detalles
+Este proyecto se completó en octubre del 2025, ha cambiado un poco del actual, pero en general es lo mismo.
